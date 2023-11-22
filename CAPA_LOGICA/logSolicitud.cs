@@ -44,7 +44,9 @@ namespace CAPA_LOGICA
             datSolicitud.Instancia.DeshabilitarSolicitud(so);
 
         }
+       
         #endregion metodos
+
     }
 }
 

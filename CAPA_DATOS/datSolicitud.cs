@@ -121,8 +121,6 @@ namespace CAPA_DATOS
             finally { cmd.Connection.Close(); }
             return delete;
         }
-
-
         #endregion metodos
     }
 }
